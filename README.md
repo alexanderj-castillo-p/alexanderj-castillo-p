@@ -28,9 +28,9 @@ and Applied AI** at [Universitat Politècnica de Catalunya (UPC)](https://www.up
 
 | Project | Stack | Description |
 |---|---|---|
+| [Autonomous Bottling Line — PLC Control](#https://github.com/alexander-industrial-ds/PLC-CODESYS-BottlingLine) | CODESYS · IEC 61131-3 | Sequential control logic for an industrial bottling line. Ladder diagram and structured text programming per OEM standards. |
+| [Bus Queue Simulation](#https://github.com/alexander-industrial-ds/DES-FlexSim-EstaciondelNord) | FlexSim | Discrete event simulation of urban transit stop dynamics. Models passenger arrival, service intervals, and queue behaviour under variable demand. |
 | [Smart Manufacturing — Predictive Maintenance](#) | Python · scikit-learn · Azure ML | ML model predicting equipment failure from IIoT sensor data (vibration, temperature, acoustic signals). End-to-end: EDA → training → cloud deployment. |
-| [Autonomous Bottling Line — PLC Control](#) | CODESYS · IEC 61131-3 | Sequential control logic for an industrial bottling line. Ladder diagram and structured text programming per OEM standards. |
-| [Bus Queue Simulation](#) | FlexSim | Discrete event simulation of urban transit stop dynamics. Models passenger arrival, service intervals, and queue behaviour under variable demand. |
 | [ROS Mobile Robot](#) | ROS · Python · Linux | Autonomous navigation fundamentals: node architecture, topic communication, and basic motion control. *(In progress)* |
 
 ---
