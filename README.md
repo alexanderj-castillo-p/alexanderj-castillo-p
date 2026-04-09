@@ -4,7 +4,7 @@
 
 Engineer with hands-on experience in industrial automation, 
 railway systems maintenance, and water treatment infrastructure 
-across Latin America. Now bridging operational technology (OT) 
+across central America. Now bridging operational technology (OT) 
 and data science to build smarter industrial systems.
 
 Currently completing a **Master's in Industry 4.0, Digitalization 
